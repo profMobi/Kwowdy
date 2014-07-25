@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bkgrd" >
+
+    <ImageView
+        android:id="@+id/imgKwowdyTeacher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/kwowdy_pickone" />
+
+    <ImageButton
+        android:id="@+id/btnKnowYourClouds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnLearnAboutClouds"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:background="@color/transparentWhite"
+        android:onClick="doIdentify"
+        android:scaleType="centerInside"
+        android:src="@drawable/btn_know_up" />
+
+    <ImageButton
+        android:id="@+id/btnForecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnKnowYourClouds"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:background="@color/transparentWhite"
+        android:onClick="doForecast"
+        android:scaleType="centerInside"
+        android:src="@drawable/btn_forecast_up" />
+
+    <ImageButton
+        android:id="@+id/btnMoreAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnForecast"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:background="@color/transparentWhite"
+        android:onClick="doAbout"
+        android:scaleType="centerInside"
+        android:src="@drawable/btn_more_up" />
+
+    <ImageButton
+        android:id="@+id/btnLearnAboutClouds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgKwowdyTeacher"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:background="@color/transparentWhite"
+        android:onClick="doLearn"
+        android:scaleType="centerInside"
+        android:src="@drawable/btn_learn_up" />
+
+</RelativeLayout>

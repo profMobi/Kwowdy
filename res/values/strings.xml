@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kwowdy</string>
+        <string name="question0" >What are clouds?</string>
+        <string name="question1" >How are clouds formed?</string>
+        <string name="question2" >Why are clouds white?</string>
+        <string name="question3" >Why do clouds turn gray?</string>
+        <string name="question4" >Why do clouds float?</string>
+        <string name="question5" >How do clouds move?</string>
+        <string name="question6" >Why do clouds form at different heights in the atmosphere?</string>
+        <string name="question7" >How is fog formed?</string>
+        <string name="answer0" >A cloud is a large collection of very tiny droplets of water or ice crystals. The droplets are so small and light that they can float in the air.</string>
+        <string name="answer1" >All air contains water, but near the ground it is usually in the form of an invisible gas called water vapor. When warm air rises, it expands and cools. Cool air can\'t hold as much water vapor as warm air, so some of the vapor condenses onto tiny pieces of dust that are floating in the air and forms a tiny droplet around each dust particle. When billions of these droplets come together they become a visible cloud. </string>
+        <string name="answer2" >Since light travels as waves of different lengths, each color has its very own unique wavelength. Clouds are white because their water droplets or ice crystals are large enough to scatter the light of the seven wavelengths (red, orange, yellow, green, blue, indigo, and violet), which combine to produce white light. </string>
+        <string name="answer3" >Clouds are made up of tiny water droplets or ice crystals, usually a mixture of both. The water and ice scatter all light, making clouds appear white. If the clouds get thick enough or high enough all the light above does not make it through, hence the gray or dark look. Also, if there are lots of other clouds around, their shadow can add to the gray or multicolored gray appearance.</string>
+        <string name="answer4" >A cloud is made up of liquid water droplets. A cloud forms when air is heated by the sun. As it rises, it slowly cools it reaches the saturation point and water condenses, forming a cloud. As long as the cloud and the air that its made of is warmer than the outside air around it, it floats!</string>
+        <string name="answer5" >Clouds move with the wind. High cirrus clouds are pushed along by the jet stream, sometimes traveling at more than 100 miles-per-hour. When clouds are part of a thunderstorm they usually travel at 30 to 40 mph.</string>
+        <string name="answer6" >The characteristics of clouds are dictated by the elements available, including the amount of water vapor, the temperatures at that height, the wind, and the interplay of other air masses. </string>
+        <string name="answer7" >There are many different types of fog, but fog is mostly formed when southerly winds bring warm, moist air into a region, possibly ending a cold outbreak. As the warm, moist air flows over much colder soil or snow, dense fog often forms. Warm, moist air is cooled from below as it flows over a colder surface. If the air is near saturation, moisture will condense out of the cooled air and form fog. With light winds, the fog near the ground can become thick and reduce visibilities to zero. </string>
+        <string name="KwowdyImageDescription">Kwowdy</string>
+        <string-array name="arrcloudnames">
+            <item >Cirrus</item>
+            <item >Cirrostratus</item>
+            <item >Cirrocumulus</item>
+            <item >Altostratus</item>
+            <item >Altocumulus</item>
+            <item >Stratus</item>
+            <item >Stratocumulus</item>
+            <item >Nimbostratus</item>
+            <item >Cumulus</item>
+            <item >Cumulonimbus</item>
+            <item >Mammatus</item>
+            <item >Lenticular</item>
+            <item >Fog</item>
+            <item >Contrails</item>
+            <item >Green Clouds</item>
+        </string-array>
+        <string-array name="arrclouddescriptions">
+            <item >Cirrus clouds are the most common of the high clouds. They are composed of ice and are thin, wispy clouds blown in high winds into long streamers. Cirrus clouds are usually white and predict fair to pleasant weather. By watching the movement of cirrus clouds you can tell from which direction weather is approaching. When you see cirrus clouds, it usually indicates that a change in the weather will occur within 24 hours.</item>
+            <item >Cirrostratus clouds are thin, sheetlike high clouds that often cover the entire sky. They are so thin that the sun and moon can be seen through them. Cirrostratus clouds usually come 12 to 24 hours before a rain or snow storm.</item>
+            <item >Cirrocumulus clouds appear as small, rounded white puffs that appear in long rows. The small ripples in the cirrocumulus clouds sometime resemble the scales of a fish. Cirrocumulus clouds are usually seen in the winter and indicate fair, but cold weather. In tropical regions, they may indicate an approaching hurricane.</item>
+            <item >Altostratus clouds are gray or blue-gray mid level clouds composed of ice crystals and water droplets. The clouds usually cover the entire sky. In the thinner areas of the clouds, the sun may be dimly visible as a round disk. Altostratus clouds often form ahead of storms with continuous rain or snow.</item>
+            <item >Altocumulus clouds are mid level clouds that are made of water droplets and appear as gray puffy masses. They usually form in groups. If you see altocumulus clouds on a warm, sticky morning, be prepared to see thunderstorms late in the afternoon.</item>
+            <item >Stratus clouds are uniform grayish clouds that often cover the entire sky. They resemble fog that doesn\'t reach the ground. Light mist or drizzle sometimes falls out of these clouds.</item>
+            <item >Stratocumulus clouds are low, puffy and gray. Most form in rows with blue sky visible in between them. Rain rarely occurs with stratocumulus clouds, however, they can turn into nimbostratus clouds.</item>
+            <item >Nimbostratus clouds form a dark gray, wet looking cloudy layer associated with continuously falling rain or snow. They often produce precipitation that is usually light to moderate.</item>
+            <item >Cumulus clouds are white, puffy clouds that look like pieces of floating cotton. Cumulus clouds are often called "fair-weather clouds". The base of each cloud is flat and the top of each cloud has rounded towers. When the top of the cumulus clouds resemble the head of a cauliflower, it is called cumulus congestus or towering cumulus. These clouds grow upward and they can develop into giant cumulonimbus clouds, which are thunderstorm clouds.</item>
+            <item >Cumulonimbus clouds are thunderstorm clouds. High winds can flatten the top of the cloud into an anvil-like shape. Cumulonimbus clouds are associated with heavy rain, snow, hail, lightning and even tornadoes. The anvil usually points in the direction the storm is moving.</item>
+            <item >Mammatus clouds are low hanging bulges that droop from cumulonimbus clouds. Mammatus clouds are usually associated with severe weather.</item>
+            <item >Lenticular clouds are caused by a wave wind pattern created by the mountains. They look like discs or flying saucers that form near mountains.</item>
+            <item >Fog is a cloud on the ground. It is composed of billions of tiny water droplets floating in the air. Fog exists if the atmospheric visibility near the Earth\'s surface is reduced to 1 kilometer or less.</item>
+            <item >Contrails are condensation trails left behind jet aircrafts. Contrails form when hot humid air from jet exhaust mixes with environmental air of low vapor pressure and low temperature. The mixing is a result of turbulence generated by the engine exhaust.</item>
+            <item >Green Clouds are often associated with severe weather. The green color is not completely understood, but it is thought to have something to do with having a high amount of liquid water drops and hail inside the clouds. In the Great Plains region of the U.S. green clouds are associated with storms likely to produce hail and tornadoes.</item>
+        </string-array>
+        <string name="getZipCode">Enter Your Zip Code</string>
+        <string name="giveParentalConsent">I Need Your Parent\'s Permission!</string>
+        <string name="oneMoreStep">One More Step!</string>
+        <string name="parentalVerification">I\'ll need your zip code to give you an accurate weather forecast.  However, you must have your parent or guardian\'s permission before I can collect it!  Ask your parent or guardian for their AgeCheq Parent Dashboard user name, and enter it below. </string>
+        <string name="explainParentalConsent">Please ask your parent of guardian to log into the AgeCheq Parent Dashboard and authorize Kwowdy to collect your ZIP code.</string>
+        <string name="parentNotSetUp">Your parent doesn\'t have one yet?  Touch this button to get one.  It\'s free!</string>
+        <string name="btnRegister">Register Your AgeCheq Parent Account</string>
+        <string name="btnNewParent">Get an Account Now</string>
+        <string name="btnCheckForApproval">Check for Parental Approval</string>
+        <string name="btnOpenParentDashboard">Go To the AgeCheq Parent Dashboard</string>
+        <string name="explainZipCode">Enter your zip code, and I\'ll show you a weather forecast for your area!</string>
+        <string name="enterZipCode">Submit</string>
+        <string name="aboutKwowdy">Kwowdy is a sample application created to teach kids about weather as well as test the AgeCheq COPPA compliance system.</string>
+        <string name="aboutBlocked">"I\'m afraid your parent or guardian has blocked this feature of Kwowdy.  Have you been naughty?  Perhaps you should give them a hug and say you're sorry."</string>
+        <string name="blocked">You\'ve Been Blocked</string>
+</resources>
